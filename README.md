@@ -1,4 +1,4 @@
-# Tarea 6. Analizador Semántico
+# Actividad 6. Analizador Semántico
 
 Esta actividad consistirá en realizar el analizador semántico con lo que se había hecho en la actividad anterior (tanto analizador léxico como sintáctico). También en esta actividad se mostrará tanto los errores semánticos como el propio árbol sintáctico formado por dicho análisis.
 
